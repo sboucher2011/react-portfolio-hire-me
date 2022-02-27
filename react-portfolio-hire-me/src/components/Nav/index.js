@@ -25,6 +25,11 @@ function Nav() {
               Resume
             </a>
           </li>
+          <li className="mx-2">
+            <a href="#resume">
+              Contact Me
+            </a>
+          </li>
         </ul>
       </nav>
     </header>
