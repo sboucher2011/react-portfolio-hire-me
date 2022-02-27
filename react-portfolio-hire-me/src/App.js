@@ -4,13 +4,26 @@ import About from './components/About';
 import ContactForm from './components/Contact';
 
 function App() {
+
+  const [contactSelected, setContactSelected] = useState(false);
   return (
     <div>
-      <Nav></Nav>
+      <Nav>
+        contactSelected={contactSelected}
+        setContactSelected={setContactSelected}
+      </Nav>
       <main>
-        <About></About>
-        <ContactForm></ContactForm>
+      {!contactSelected ? (
+          <>
+            <About></About>
+          </>
+        ) : (
+          <ContactForm></ContactForm>
+        )}
       </main>
+      <footer>
+        <p> test footer </p>
+      </footer>
     </div>
   );
 }
