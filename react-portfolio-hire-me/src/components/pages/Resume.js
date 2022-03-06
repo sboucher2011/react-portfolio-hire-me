@@ -39,7 +39,7 @@ function Resume() {
         </ul>
     </ul>
 
-    <a class="alignLeft" href="/src/assets/download/resume.doc" download>Download My Resume</a>
+    <a class="alignLeft" href="/public/download/resume.doc" download>Download My Resume</a>
 
     </div>
   );

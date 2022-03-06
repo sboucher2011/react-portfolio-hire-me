@@ -236,6 +236,11 @@ main {
     padding-bottom: var(--spacing-two);
   }
   
+  .error-text {
+      color: var(--error);
+      font-size: x-large;
+  }
+
   .card {
     width: 25%;
     text-align: center;
