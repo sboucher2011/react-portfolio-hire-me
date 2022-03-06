@@ -1,10 +1,6 @@
 import React, { useEffect } from 'react';
 
-function Nav(props) {
-    const {
-        contactSelected,
-        setContactSelected
-    } = props;
+function NavTabs({currentPage, handlePageChange}) {
 
     return (
         <header className="flex-row px-1">
@@ -16,22 +12,22 @@ function Nav(props) {
             <nav>
                 <ul className="flex-row">
                     <li className="mx-2">
-                        <a href="#about" onClick={() => setContactSelected(false)}>
+                        <a href="#about" onClick={() => handlePageChange('About')} className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}>
                             About me
                         </a>
                     </li>
                     <li className="mx-2">
-                        <a href="#portfolio" onClick={() => setContactSelected(false)}>
+                        <a href="#portfolio" onClick={() => handlePageChange('Portfolio')} className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}>
                             Portfolio
                         </a>
                     </li>
                     <li className="mx-2">
-                        <a href="#resume" onClick={() => setContactSelected(false)}>
+                        <a href="#resume" onClick={() => handlePageChange('Resume')} className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}>
                             Resume
                         </a>
                     </li>
-                    <li className={`mx-2 ${contactSelected && 'navActive'}`}>
-                        <a href="#contact" onClick={() => setContactSelected(true)}>
+                    <li >
+                        <a href="#contact" onClick={() => handlePageChange('Contact')} className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}>
                             Contact Me
                         </a>
                     </li>
@@ -41,4 +37,4 @@ function Nav(props) {
     );
 }
 
-export default Nav;
+export default NavTabs;
