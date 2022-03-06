@@ -26,7 +26,7 @@ function NavTabs({currentPage, handlePageChange}) {
                             Resume
                         </a>
                     </li>
-                    <li >
+                    <li className="mx-2">
                         <a href="#contact" onClick={() => handlePageChange('Contact')} className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}>
                             Contact Me
                         </a>

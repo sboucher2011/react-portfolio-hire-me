@@ -5,12 +5,10 @@ function Resume() {
     <div>
       <h1>Resume</h1>
 
-      
-      <a href="/src/assets/download/resume.doc" download>My Resume</a>
-
+      <h4 class="alignLeft">⭐️  Web Development Certificate from Univeristy of Central Florida ⭐️ </h4>
+    
     <ul>
-        <p>Web Development Certificate from Univeristy of Central Florida</p>
-        <li>Front End Skills</li>
+        <li>Front End Skills:</li>
         <ul>
             <li>HTML</li>
             <li>CSS</li>
@@ -19,7 +17,7 @@ function Resume() {
             <li>REACT</li>
         </ul>
 
-        <li>Backend End Skills</li>
+        <li>Backend End Skills:</li>
         <ul>
             <li>Node</li>
             <li>SQL</li>
@@ -31,7 +29,7 @@ function Resume() {
     </ul>
 
     <ul>
-    <li>Other Languges</li>
+    <li>Other Languges:</li>
         <ul>
             <li>Swift</li>
             <li>C#</li>
@@ -40,6 +38,8 @@ function Resume() {
             <li>Arduino</li>
         </ul>
     </ul>
+
+    <a class="alignLeft" href="/src/assets/download/resume.doc" download>Download My Resume</a>
 
     </div>
   );
