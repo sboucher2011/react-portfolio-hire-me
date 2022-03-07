@@ -8,6 +8,7 @@ This program is a to demonstrate basic React capabilities by creating a new port
 ## Table of Contents
 * [Installation](#installation)
 * [Skills](#skills)
+* [Preview] (#preview)
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
@@ -20,6 +21,9 @@ npm start
 
 ## Skills
 * REACT
+
+## Preview
+![alt text](https://github.com/sboucher2011/challenge02/blob/main/assets/images/website_image_for_readme.png)
 
 ## License
 https://opensource.org/licenses/MIT
