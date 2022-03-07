@@ -13,10 +13,8 @@ export default function Card(props) {
             </a>
             <a href={props.workingPage}>
                 <img
-                className="card-img-top"
-                //src={`http://placecorgi.com/${randomWidth()}`}
                 src = {require(`../assets/images/${props.photo}.jpg`)}
-                alt="Card"
+                alt="projectSnapshot"
                 />
             </a>    
             <div className="card-body">
