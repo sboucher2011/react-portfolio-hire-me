@@ -6,6 +6,8 @@ import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 import Resume from './pages/Resume';
 
+import linkedIn from '../assets/linkedIn.png'
+import gitHub from '../assets/github.png'
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('About');
@@ -33,11 +35,11 @@ export default function PortfolioContainer() {
       {renderPage()}
       <footer>
       <a href="https://github.com/sboucher2011">
-        <img src="src/assets/github.png" className="footerIcon" />
+        <img src={gitHub} className="footerIcon" />
       </a>
 
       <a href="https://www.linkedin.com/in/shawna-boucher-a10b9662/">
-        <img src="src/assets/linkedIn.png" className="footerIcon" />
+        <img src={linkedIn} className="footerIcon" />
       </a>
 
       </footer>

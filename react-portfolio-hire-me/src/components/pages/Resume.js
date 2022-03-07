@@ -1,4 +1,5 @@
 import React from 'react';
+import ResumeDoc from '../../assets/download/resume.doc';
 
 function Resume() {
   return (
@@ -39,7 +40,7 @@ function Resume() {
         </ul>
     </ul>
 
-    <a class="alignLeft" href="/public/download/resume.doc" download>Download My Resume</a>
+    <a class="alignLeft" href={ResumeDoc} download>Download My Resume</a>
 
     </div>
   );
