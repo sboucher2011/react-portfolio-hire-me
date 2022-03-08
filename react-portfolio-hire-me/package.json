@@ -2,7 +2,7 @@
   "name": "react-portfolio-hire-me",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me",
+  "homepage": "https://sboucher2011.github.io/react-portfolio-hire-me",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
