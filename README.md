@@ -23,7 +23,7 @@ npm start
 * REACT
 
 ## Preview
-![alt text](https://github.com/sboucher2011/react-portfolio-hire-me/blob/main/react-portfolio-hire-me/src/assets/readme.png)
+![alt text](https://github.com/sboucher2011/react-portfolio-hire-me/blob/main/src/assets/readme.png)
 
 ## License
 https://opensource.org/licenses/MIT
