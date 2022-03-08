@@ -9,6 +9,7 @@ This program is a to demonstrate basic React capabilities by creating a new port
 * [Installation](#installation)
 * [Skills](#skills)
 * [Preview](#preview)
+* [Deployed](#deployed)
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
@@ -24,6 +25,9 @@ npm start
 
 ## Preview
 ![alt text](https://github.com/sboucher2011/react-portfolio-hire-me/blob/main/src/assets/readme.png)
+
+## Deployed
+https://sboucher2011.github.io/react-portfolio-hire-me/
 
 ## License
 https://opensource.org/licenses/MIT
