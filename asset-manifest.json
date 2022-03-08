@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me/static/css/main.ca8353fd.css",
-    "main.js": "/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me/static/js/main.a32a3ba0.js",
-    "static/js/787.2206ace9.chunk.js": "/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me/static/js/787.2206ace9.chunk.js",
-    "static/media/retrorewind.jpg": "/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me/static/media/retrorewind.56760e221fa8680d99e6.jpg",
-    "static/media/pizzaHunt.jpg": "/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me/static/media/pizzaHunt.05b01b252bbc31486997.jpg",
-    "static/media/weatherDashboard.jpg": "/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me/static/media/weatherDashboard.447e38a7e25acdfa7b14.jpg",
-    "static/media/budgetTracker.jpg": "/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me/static/media/budgetTracker.022f3dc45bca00ef44e5.jpg",
-    "static/media/taskMaster.jpg": "/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me/static/media/taskMaster.70f9688d031547a78689.jpg",
-    "static/media/eventFinder.jpg": "/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me/static/media/eventFinder.4f5ad7425e418d181e0d.jpg",
-    "static/media/resume.doc": "/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me/static/media/resume.3e97aace2215840141f3.doc",
-    "static/media/shawna.jpeg": "/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me/static/media/shawna.18ff571dc9572674f265.jpeg",
-    "static/media/linkedIn.png": "/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me/static/media/linkedIn.9a1a7f8162140e296345.png",
-    "index.html": "/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me/index.html",
-    "main.ca8353fd.css.map": "/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me/static/css/main.ca8353fd.css.map",
-    "main.a32a3ba0.js.map": "/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me/static/js/main.a32a3ba0.js.map",
-    "787.2206ace9.chunk.js.map": "/sboucher2011/react-portfolio-hire-me/tree/main/react-portfolio-hire-me/static/js/787.2206ace9.chunk.js.map"
+    "main.css": "/react-portfolio-hire-me/static/css/main.ca8353fd.css",
+    "main.js": "/react-portfolio-hire-me/static/js/main.8c060003.js",
+    "static/js/787.2206ace9.chunk.js": "/react-portfolio-hire-me/static/js/787.2206ace9.chunk.js",
+    "static/media/retrorewind.jpg": "/react-portfolio-hire-me/static/media/retrorewind.56760e221fa8680d99e6.jpg",
+    "static/media/pizzaHunt.jpg": "/react-portfolio-hire-me/static/media/pizzaHunt.05b01b252bbc31486997.jpg",
+    "static/media/weatherDashboard.jpg": "/react-portfolio-hire-me/static/media/weatherDashboard.447e38a7e25acdfa7b14.jpg",
+    "static/media/budgetTracker.jpg": "/react-portfolio-hire-me/static/media/budgetTracker.022f3dc45bca00ef44e5.jpg",
+    "static/media/taskMaster.jpg": "/react-portfolio-hire-me/static/media/taskMaster.70f9688d031547a78689.jpg",
+    "static/media/eventFinder.jpg": "/react-portfolio-hire-me/static/media/eventFinder.4f5ad7425e418d181e0d.jpg",
+    "static/media/resume.doc": "/react-portfolio-hire-me/static/media/resume.3e97aace2215840141f3.doc",
+    "static/media/shawna.jpeg": "/react-portfolio-hire-me/static/media/shawna.18ff571dc9572674f265.jpeg",
+    "static/media/linkedIn.png": "/react-portfolio-hire-me/static/media/linkedIn.9a1a7f8162140e296345.png",
+    "index.html": "/react-portfolio-hire-me/index.html",
+    "main.ca8353fd.css.map": "/react-portfolio-hire-me/static/css/main.ca8353fd.css.map",
+    "main.8c060003.js.map": "/react-portfolio-hire-me/static/js/main.8c060003.js.map",
+    "787.2206ace9.chunk.js.map": "/react-portfolio-hire-me/static/js/787.2206ace9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca8353fd.css",
-    "static/js/main.a32a3ba0.js"
+    "static/js/main.8c060003.js"
   ]
 }
