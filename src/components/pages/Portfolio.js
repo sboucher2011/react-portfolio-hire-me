@@ -8,7 +8,7 @@ let projects = [
   {id: "4", name: "Pizza Hunt", description: "NoSQL", photo: "pizzaHunt", github: "https://github.com/sboucher2011/pizza-hunt", workingPage: "https://pizza-hunt-app-88.herokuapp.com/"},
   {id: "5", name: "Budget Tracker", description: "Offline & PWA", photo: "budgetTracker", github: "https://github.com/sboucher2011/pwa-Budget-tracker", workingPage: "https://floating-fortress-65122.herokuapp.com/"},
   {id: "6", name: "Retro Rewind", description: "Sequalize & Express", photo: "retrorewind", github: "https://github.com/kelsey-schenk/retro-rewind", workingPage: "https://retro-rewind.herokuapp.com/"},
-  {id: "6", name: "Sparkling Spaces", description: "React & Mongo", photo: "sparklingSpaces", github: "https://github.com/msdale/burn-book", workingPage: "https://sparkling-spaces.herokuapp.com//"}
+  {id: "6", name: "Sparkling Spaces", description: "React & Mongo", photo: "sparklingSpaces", github: "https://github.com/msdale/burn-book", workingPage: "https://young-fjord-08052.herokuapp.com/"}
 ];
 
 function Portfolio() {
