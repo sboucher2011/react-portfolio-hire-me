@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio-hire-me/static/css/main.ca8353fd.css",
-    "main.js": "/react-portfolio-hire-me/static/js/main.37b18a49.js",
+    "main.js": "/react-portfolio-hire-me/static/js/main.a14e2a7b.js",
     "static/js/787.2206ace9.chunk.js": "/react-portfolio-hire-me/static/js/787.2206ace9.chunk.js",
     "static/media/retrorewind.jpg": "/react-portfolio-hire-me/static/media/retrorewind.56760e221fa8680d99e6.jpg",
     "static/media/pizzaHunt.jpg": "/react-portfolio-hire-me/static/media/pizzaHunt.05b01b252bbc31486997.jpg",
@@ -15,11 +15,11 @@
     "static/media/linkedIn.png": "/react-portfolio-hire-me/static/media/linkedIn.9a1a7f8162140e296345.png",
     "index.html": "/react-portfolio-hire-me/index.html",
     "main.ca8353fd.css.map": "/react-portfolio-hire-me/static/css/main.ca8353fd.css.map",
-    "main.37b18a49.js.map": "/react-portfolio-hire-me/static/js/main.37b18a49.js.map",
+    "main.a14e2a7b.js.map": "/react-portfolio-hire-me/static/js/main.a14e2a7b.js.map",
     "787.2206ace9.chunk.js.map": "/react-portfolio-hire-me/static/js/787.2206ace9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca8353fd.css",
-    "static/js/main.37b18a49.js"
+    "static/js/main.a14e2a7b.js"
   ]
 }
